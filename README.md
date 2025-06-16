@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm Tonmoy</h1>
 <h3 align="center">A passionate frontend developer from Bangladeh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy-roy&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy-roy" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://tangerine-sorbet-42e515.netlify.app/](https://tangerine-sorbet-42e515.netlify.app/)
 
 - 💬 Ask me about **ReactJs**
