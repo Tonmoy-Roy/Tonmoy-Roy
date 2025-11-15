@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tonmoy-roy-own" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonmoy roy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tonmoy_roy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="roytonmoy_322" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tonmoy_roy" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_2/zruiknbedz8yqafxbazb?ik-sanitizeSvg=true" alt="roytonmoy_322" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tonmoy_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tonmoy_roy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tonmoy_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tonmoy_roy" height="30" width="40" /></a>
 <a href="https://atcoder.jp/users/Tonmoy_Roy" target="_blank">
