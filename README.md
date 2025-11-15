@@ -13,7 +13,7 @@
 <a href="https://codeforces.com/profile/tonmoy_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tonmoy_roy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tonmoy_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tonmoy_roy" height="30" width="40" /></a>
 <a href="https://atcoder.jp/users/Tonmoy_Roy" target="_blank">
-  <img align="center" src="https://i.namu.wiki/i/oloBJdRd29lBIF-mdv1FjWucpE3tGPhudDBTvOBChAT3A5w9zDUYg51mvn6NNOwoHJZIwxkVyzeXQMhtLAcQOQ.webp" alt="Tonmoy_Roy" height="30" width="40" />
+  <img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="Tonmoy_Roy" height="30" width="40" />
 </a>
 
 </p>
